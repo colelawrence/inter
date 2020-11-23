@@ -1,3 +1,16 @@
+# Inter Code
+
+A derivative of Inter which adds a dot in the 0, and adds width in space characters.
+
+![](./intercode-on-light.png "Quiet Light theme in VS Code Zen")
+![](./intercode-on-dark.png "Customized 'Cyberdyne 20XX rust_edition' theme in VS Code Zen")
+
+Download from ./InterCode.zip
+
+**Original README:**
+
+<hr/>
+
 # Inter
 
 Inter is a typeface specially designed for user interfaces
